@@ -1,0 +1,62 @@
+[
+  {
+    "student_id": "S001",
+    "student_name": "Alice Tan",
+    "student_status": "Undergraduate",
+    "academic_load": "Full Time"
+  },
+  {
+    "student_id": "S002",
+    "student_name": "Benjamin Lim",
+    "student_status": "Graduate",
+    "academic_load": "Full Time"
+  },
+  {
+    "student_id": "S003",
+    "student_name": "Chloe Wong",
+    "student_status": "Undergraduate",
+    "academic_load": "Part Time"
+  },
+  {
+    "student_id": "S004",
+    "student_name": "Daniel Lee",
+    "student_status": "Graduate",
+    "academic_load": "Part Time"
+  },
+  {
+    "student_id": "S005",
+    "student_name": "Emma Koh",
+    "student_status": "Undergraduate",
+    "academic_load": "Full Time"
+  },
+  {
+    "student_id": "S006",
+    "student_name": "Farhan Rahman",
+    "student_status": "Graduate",
+    "academic_load": "Full Time"
+  },
+  {
+    "student_id": "S007",
+    "student_name": "Grace Ng",
+    "student_status": "Undergraduate",
+    "academic_load": "Part Time"
+  },
+  {
+    "student_id": "S008",
+    "student_name": "Hannah Goh",
+    "student_status": "Graduate",
+    "academic_load": "Part Time"
+  },
+  {
+    "student_id": "S009",
+    "student_name": "Isaac Chen",
+    "student_status": "Undergraduate",
+    "academic_load": "Full Time"
+  },
+  {
+    "student_id": "S010",
+    "student_name": "Julia Teo",
+    "student_status": "Graduate",
+    "academic_load": "Full Time"
+  }
+]
