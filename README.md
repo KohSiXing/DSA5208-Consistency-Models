@@ -7,16 +7,22 @@ This repository contains codes and set up for DSA5208 Assignment 1 - Client Cent
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED.svg?style=flat&logo=logo&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-13aa52.svg?style=flat&logo=mongodb&logoColor=FFF)
 
+### Team Members
+|  Matriculation Number | Name                |
+| ---                   | ---                 |
+| A0220825M             | Koh Si Xing         |
+| A0221663L             | Ashley Lee Ruoxin   |
+| -                     | Kevin Royce Thomson | 
+
 ## Main Scripts
 
 | Script Name                           | Purpose                                                                 |
 | ---                                   | ---                                                                     |
 | Assignment1.1-combined_cleaned.ipynb  | Conduct experiment under normal conditions                              |
 | Assignment1.2-failover_cleaned.ipynb  | Conduct experiment with diconnected secondaries and downed primary node |
-| Assignment1.3-partition_cleaned.ipynb | Conduct experiment with network partitions | 
+| Assignment1.3-partition_cleaned.ipynb | Conduct experiment with network partitions                              | 
 
-## Previous Work
-- Contains the codes and logic on how each of the experiments should be conducted - Consistency Models, Failures and Partition
+**Previous Work** : Folder containing the past codes and logic on how each of the experiments should be conducted - Consistency Models, Failures and Partition, before refactoring. NOT TO BE USED FOR ASSESSMENT.
 
 ## Environment Set Up
 ### To Install Required Python Packages
