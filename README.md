@@ -12,7 +12,7 @@ This repository contains codes and set up for DSA5208 Assignment 1 - Client Cent
 | ---                   | ---                 |
 | A0220825M             | Koh Si Xing         |
 | A0221663L             | Ashley Lee Ruoxin   |
-| -                     | Kevin Royce Thomson | 
+| A0333470L             | Kevin Royce Thomson | 
 
 ## Main Scripts
 
